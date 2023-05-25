@@ -2,8 +2,8 @@
 
 🌱 I’m currently learning at Asia University.
 👯 I’m looking to collaborate on AI Learning.
-📫 How to reach me: Visit my [website](https://jonathanjoest4r).
-😄 Pronouns: Interested?
+📫 How to reach me: Visit my [website](https://jonathanjoest4r.pythonanywhere.com).
+😄 Pronouns: Taken
 ⚡ Fun fact: I'm working on Stable Diffusion.
 
 ## GitHub Analytics
