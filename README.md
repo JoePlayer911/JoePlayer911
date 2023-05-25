@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+### 🌱 I’m currently learning at Asia University
+### 👯 I’m looking to collaborate on AI Learning
+### 📫 How to reach me: Go to site
+### 😄 Pronouns: Interested?
+### ⚡ Fun fact: I'm working on Stable Diffusion
 
 <!--
 **JoePlayer911/JoePlayer911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
