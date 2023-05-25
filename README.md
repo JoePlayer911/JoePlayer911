@@ -16,7 +16,7 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 
 ## Languages and Projects
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoePlayer911&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10&theme=radical)](https://github.com/JoePlayer911)
-[![Top Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=JoePlayer911&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10&theme=radical)](https://github.com/JoePlayer911/JPStableDiffusion)
+[![Top Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=JoePlayer911&layout=compact&theme=radical)](https://github.com/JoePlayer911/JPStableDiffusion)
 
 ## Infos
 
