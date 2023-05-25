@@ -20,9 +20,9 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 ## Infos
 
 - **Biodata:** [Click here](jonathanjoest4r.pythonanywhere.com/admin)
-  Description of the project.
+  to go.
 
 - **Go to Liyue:** [Link start](jonathanjoest4r.pythonanywhere.com/liyue)
-  Description of the project.
+  now.
 
 Feel free to explore my repositories for more projects and contributions!
