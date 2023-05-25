@@ -5,8 +5,8 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 - 🌱 I’m currently studying at Asia University.
 - 👯 I’m looking to collaborate on AI Learning projects and research.
 - 💬 Ask me about machine learning, deep learning, and AI applications.
-- 📫 How to reach me: Visit my [website](https://jonathanjoest4r.pythonanywhere.com)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: Go to [site](https://goo.gl/maps/DWZCFzLCGkC2BaD36)
+- 😄 Pronouns: Taken
 - ⚡ Fun fact: I'm currently working on Stable Diffusion, a cutting-edge research project.
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%230076D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonathanjoest4r.pythonanywhere.com)
@@ -17,15 +17,12 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 ## Languages and Tools
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoePlayer911&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10&theme=radical)](https://github.com/JoePlayer911)
 
-## Projects
+## Infos
 
-- **Project 1:** [Project Name](https://github.com/JoePlayer911/project-repo)
+- **Biodata:** [Click here](jonathanjoest4r.pythonanywhere.com/admin)
   Description of the project.
 
-- **Project 2:** [Project Name](https://github.com/JoePlayer911/project-repo)
-  Description of the project.
-
-- **Project 3:** [Project Name](https://github.com/JoePlayer911/project-repo)
+- **Go to Liyue:** [Link start](jonathanjoest4r.pythonanywhere.com/liyue)
   Description of the project.
 
 Feel free to explore my repositories for more projects and contributions!
