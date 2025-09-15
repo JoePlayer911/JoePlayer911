@@ -19,9 +19,9 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 
 ## Infos
 
-- **Biodata:** [Click here](jokojo3star.pythonanywhere.com/)
+- **Biodata:** [Click here](https://jokojo3star.pythonanywhere.com/)
   to go.
 
-- **Adventure with Xingqiu:** [Go on adventure](jokojo3star.pythonanywhere.com/xingqiu.html) now.
+- **Adventure with Xingqiu:** [Go on adventure](https://jokojo3star.pythonanywhere.com/xingqiu.html) now.
 
 Feel free to explore my repositories for more projects and contributions!
