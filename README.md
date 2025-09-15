@@ -6,10 +6,9 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 - 👯 I’m looking to collaborate on AI Learning projects and research.
 - 💬 Ask me about machine learning, deep learning, and AI applications.
 - 📫 How to reach me: Go to [site](https://goo.gl/maps/DWZCFzLCGkC2BaD36)
-- 😄 Pronouns: Taken
-- ⚡ Fun fact: I'm currently working on Stable Diffusion, a cutting-edge research project.
+- ⚡ Fun fact: I'm currently working on Teaching-aided learning platform, powered with LLM.
 
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%230076D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonathanjo3star.pythonanywhere.com)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%230076D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jokojo3star.pythonanywhere.com)
 
 ## GitHub Analytics
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoePlayer911&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/JoePlayer911)
@@ -21,9 +20,9 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 
 ## Infos
 
-- **Biodata:** [Click here](jonathanjo3star.pythonanywhere.com/admin)
+- **Biodata:** [Click here](jokojo3star.pythonanywhere.com/)
   to go.
 
-- **Adventure with Xingqiu:** [Link start](jonathanjo3star.pythonanywhere.com/xingqiu.html).
+- **Adventure with Xingqiu:** [Go on adventure](jokojo3star.pythonanywhere.com/xingqiu.html) now.
 
 Feel free to explore my repositories for more projects and contributions!
