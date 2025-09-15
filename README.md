@@ -5,7 +5,6 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 - 🌱 I’m currently studying at Asia University.
 - 👯 I’m looking to collaborate on AI Learning projects and research.
 - 💬 Ask me about machine learning, deep learning, and AI applications.
-- 📫 How to reach me: Go to [site](https://goo.gl/maps/DWZCFzLCGkC2BaD36)
 - ⚡ Fun fact: I'm currently working on Teaching-aided learning platform, powered with LLM.
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%230076D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jokojo3star.pythonanywhere.com)
