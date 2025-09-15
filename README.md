@@ -9,7 +9,7 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 - 😄 Pronouns: Taken
 - ⚡ Fun fact: I'm currently working on Stable Diffusion, a cutting-edge research project.
 
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%230076D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonathanjoest4r.pythonanywhere.com)
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%230076D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jonathanjo3star.pythonanywhere.com)
 
 ## GitHub Analytics
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoePlayer911&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/JoePlayer911)
@@ -21,10 +21,9 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 
 ## Infos
 
-- **Biodata:** [Click here](jonathanjoest4r.pythonanywhere.com/admin)
+- **Biodata:** [Click here](jonathanjo3star.pythonanywhere.com/admin)
   to go.
 
-- **Go to Liyue:** [Link start](jonathanjoest4r.pythonanywhere.com/liyue)
-  now.
+- **Adventure with Xingqiu:** [Link start](jonathanjo3star.pythonanywhere.com/xingqiu.html).
 
 Feel free to explore my repositories for more projects and contributions!
