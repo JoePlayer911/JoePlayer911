@@ -2,10 +2,9 @@
 
 I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 
-- 🌱 I’m currently studying at Asia University.
-- 👯 I’m looking to collaborate on AI Learning projects and research.
-- 💬 Ask me about machine learning, deep learning, and AI applications.
-- ⚡ Fun fact: I'm currently working on Teaching-aided learning platform, powered with LLM.
+- 🌱 I’m currently studying at National University of Kaohsiung.
+- ⚡ I’m looking to collaborate on AI Learning projects and research.
+- ⚡ Fun fact: I like automotives too!
 
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-%230076D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jokojo3star.pythonanywhere.com)
 
@@ -19,9 +18,9 @@ I'm JoePlayer911, a passionate learner and aspiring AI enthusiast.
 
 ## Infos
 
-- **Biodata:** [Click here](https://jokojo3star.pythonanywhere.com/)
+- **Biodata:** [Click here](https://joeplayer911.github.io/cv)
   to go.
 
-- **Adventure with Xingqiu:** [Go on adventure](https://jokojo3star.pythonanywhere.com/xingqiu.html) now.
+- **Adventure with Xingqiu:** [Go on adventure](https://joeplayer911.github.io/cv/xingqiu.html) now.
 
 Feel free to explore my repositories for more projects and contributions!
